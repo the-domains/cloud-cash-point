@@ -1,19 +1,17 @@
 ---
-datePublished: '2016-08-28T20:48:48.336Z'
+datePublished: '2016-08-28T21:49:20.940Z'
 sourcePath: _posts/2016-08-28-comging-soon.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T20:48:47.216Z'
+dateModified: '2016-08-28T21:49:20.651Z'
 title: ''
 publisher: {}
-description: Coming soon…
+description: Coming soon… We are in the final stages of preparing for launch!
 starred: false
 url: just-wait/index.html
 _type: Article
 
 ---
-Coming soon...
-
-We are in the final stages of preparing for launch.
+Coming soon... We are in the final stages of preparing for launch!
