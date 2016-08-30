@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-28T20:44:47.660Z'
+datePublished: '2016-08-28T20:44:50.660Z'
 sourcePath: _posts/2016-08-28-comging-soon.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T20:44:47.189Z'
+dateModified: '2016-08-28T20:44:50.285Z'
 title: Just wait.
 publisher: {}
 description: Coming soon…
-starred: true
+starred: false
 _type: Blurb
 
 ---
