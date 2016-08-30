@@ -12,5 +12,9 @@ color:
     - '#96ED89'
 layout_spectrum: 0.5594150687102228
 name: Cloud Cash Point
+navigation:
+  - name: Just wait.
+    id: e4143761-0ff4-41b9-8822-10f14f1addac
+    type: content
 title: Selling... the easy way!
 description: Simple & fast
